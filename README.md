@@ -33,14 +33,14 @@ Correlation heatmap of financial indicators
 
 # # 1.**Clone the git Repository:**
 
-# # 2.**Install Dependencies: Make sure you have Python 3.7+ installed.
+# # 2.Install Dependencies: Make sure you have Python 3.7+ installed.
 **Install the required libraries:e**
 pip install -r requirements.txt
 
 # #3.**Run the Application:**
 streamlit run app.py
 
-# #4.**Upload Data:****
+# #4.**Upload Data:**
 
 Upload an Excel file containing financial data. The file should include columns like:
 Family ID
@@ -63,7 +63,8 @@ View insights, visualizations, and predictions.
 # **#📂 Project Structure**
 
 **financial-health-analyzer/
-│
+
+
 ├── app.py                     # Main application script
 
 ├── requirements.txt           # Python dependencies
@@ -74,7 +75,7 @@ View insights, visualizations, and predictions.
 
 **Model:** Random Forest Regressor
 
-**Features: **Income, Monthly Expenses, Savings, Loan Payments
+**Features:** Income, Monthly Expenses, Savings, Loan Payments
 
 **Target:** Monthly Expenses
 
