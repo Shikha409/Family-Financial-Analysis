@@ -4,30 +4,41 @@ Family Financial Health Analyzer is an interactive Streamlit-based application d
 
 # #🌟 Features
 **Data Overview:** View a summary of financial data, including transaction records, unique families, and the date range.
+
 **Financial Metrics:** Calculate and display key financial indicators like Expense-to-Income Ratio and Savings Rate.
+
 **Financial Health Score:** Evaluate a family's financial health with a dynamic scoring system using key metrics:
 Income Stability
+
 Savings Rate
+
 Expense Management
+
 Debt Management
+
 Goal Achievement
 
 **Interactive Visualizations:**
 Category-wise spending (Pie Chart)
+
 Member-wise spending (Bar Chart)
+
 Daily spending trends (Line Chart)
+
 Correlation heatmap of financial indicators
+
 **Next Month Expense Prediction:** Predict upcoming monthly expenses using a Random Forest Regressor.
+
 **Insights and Recommendations:** Provide tailored warnings and actionable recommendations for improving financial health.
 
-# #**Install Dependencies: Make sure you have Python 3.7+ installed.
+**Install Dependencies: Make sure you have Python 3.7+ installed.
 **Install the required libraries:e****
 pip install -r requirements.txt
 
-# #**Run the Application:**
+**Run the Application:**
 streamlit run app.py
 
-# #**Upload Data:****
+**Upload Data:****
 
 Upload an Excel file containing financial data. The file should include columns like:
 Family ID
