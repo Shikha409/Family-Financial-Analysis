@@ -1,5 +1,5 @@
 
-📊💰 Family Financial Health Analyzer
+# # 📊💰 Family Financial Health Analyzer
 Family Financial Health Analyzer is an interactive Streamlit-based application designed to evaluate and visualize the financial health of families based on their income, expenses, savings, and spending patterns. The application uses machine learning and data visualization techniques to provide actionable insights, predict future expenses, and assess financial stability.
 
 🌟 Features
