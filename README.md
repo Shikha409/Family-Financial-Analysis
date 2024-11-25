@@ -33,8 +33,8 @@ Correlation heatmap of financial indicators
 
 # # 1.**Clone the git Repository:**
 
-# #2.**Install Dependencies: Make sure you have Python 3.7+ installed.
-**Install the required libraries:e****
+# # 2.**Install Dependencies: Make sure you have Python 3.7+ installed.
+**Install the required libraries:e**
 pip install -r requirements.txt
 
 # #3.**Run the Application:**
