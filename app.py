@@ -197,7 +197,7 @@ class FinancialAnalyzer:
 
 # Main Application
 def main():
-    st.title("📊 Comprehensive Family Financial Analysis Dashboard")
+    st.title("📊💰  Family Financial Analysis Dashboard")
     
     # File upload
     uploaded_file = st.file_uploader("Upload Excel File", type=['xlsx'])
