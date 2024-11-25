@@ -62,14 +62,14 @@ View insights, visualizations, and predictions.
 
 # **#📂 Project Structure**
 
-**financial-health-analyzer/
+**financial-health-analyzer/**
 
 
-├── app.py                     # Main application script
+**├── app.py                     # Main application script**
 
-├── requirements.txt           # Python dependencies
+**├── requirements.txt           # Python dependencies**
 
-└── README.md                  # Project documentation**
+**└── README.md                  # Project documentation**
 
 # #🧠 Machine Learning
 
