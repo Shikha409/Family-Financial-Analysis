@@ -9,7 +9,7 @@ from sklearn.ensemble import RandomForestRegressor
 from sklearn.preprocessing import StandardScaler
 
 # Page configuration
-st.set_page_config(page_title="Comprehensive Family Financial Analysis", layout="wide")
+st.set_page_config(page_title="📊💰 Family Financial Health Analyzer", layout="wide")
 
 class FinancialAnalyzer:
     def __init__(self, excel_data):
