@@ -20,7 +20,8 @@ Correlation heatmap of financial indicators
 **Next Month Expense Prediction:** Predict upcoming monthly expenses using a Random Forest Regressor.
 **Insights and Recommendations:** Provide tailored warnings and actionable recommendations for improving financial health.
 
-# #**bash code**
+# #**Install Dependencies: Make sure you have Python 3.7+ installed.
+**Install the required libraries:e****
 pip install -r requirements.txt
 
 # #**Run the Application:**
