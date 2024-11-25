@@ -93,7 +93,7 @@ View insights, visualizations, and predictions.
 
 **🔗 High Debt Burden**: Focus on debt reduction.
 
-# Recommendations:
+# #Recommendations:
 
 Set up automatic monthly transfers to savings.
 
